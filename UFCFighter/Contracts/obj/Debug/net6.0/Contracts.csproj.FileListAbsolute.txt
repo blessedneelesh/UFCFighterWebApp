@@ -1,0 +1,15 @@
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\bin\Debug\net6.0\Contracts.deps.json
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\bin\Debug\net6.0\Contracts.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\bin\Debug\net6.0\Contracts.pdb
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\bin\Debug\net6.0\Shared.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\bin\Debug\net6.0\Shared.pdb
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\obj\Debug\net6.0\Contracts.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\obj\Debug\net6.0\Contracts.pdb
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Contracts\obj\Debug\net6.0\ref\Contracts.dll

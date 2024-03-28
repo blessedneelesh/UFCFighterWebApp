@@ -1,0 +1,17 @@
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\bin\Release\net6.0\LoggerService.deps.json
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\bin\Release\net6.0\LoggerService.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\bin\Release\net6.0\LoggerService.pdb
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\bin\Release\net6.0\Contracts.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\bin\Release\net6.0\Shared.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\bin\Release\net6.0\Contracts.pdb
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\bin\Release\net6.0\Shared.pdb
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\obj\Release\net6.0\LoggerService.csproj.AssemblyReference.cache
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\obj\Release\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\obj\Release\net6.0\LoggerService.AssemblyInfoInputs.cache
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\obj\Release\net6.0\LoggerService.AssemblyInfo.cs
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\obj\Release\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\obj\Release\net6.0\LoggerService.csproj.CopyComplete
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\obj\Release\net6.0\LoggerService.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\obj\Release\net6.0\refint\LoggerService.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\obj\Release\net6.0\LoggerService.pdb
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\LoggerService\obj\Release\net6.0\ref\LoggerService.dll

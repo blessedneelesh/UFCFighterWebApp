@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="UFCFighter20240327202242" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\11Lambton\ college\\3rd\ Semester\\\.net\\resources\\mvc1_allfiles\\aspnet_core_mvc\\ex_starts\\UFCFighter\\UFCFighter\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

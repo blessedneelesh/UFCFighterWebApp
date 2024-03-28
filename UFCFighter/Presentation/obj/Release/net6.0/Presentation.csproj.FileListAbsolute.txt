@@ -1,0 +1,17 @@
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\bin\Release\net6.0\Presentation.deps.json
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\bin\Release\net6.0\Presentation.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\bin\Release\net6.0\Presentation.pdb
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\bin\Release\net6.0\Service.Contracts.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\bin\Release\net6.0\Shared.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\bin\Release\net6.0\Service.Contracts.pdb
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\bin\Release\net6.0\Shared.pdb
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\obj\Release\net6.0\Presentation.csproj.AssemblyReference.cache
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\obj\Release\net6.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\obj\Release\net6.0\Presentation.AssemblyInfoInputs.cache
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\obj\Release\net6.0\Presentation.AssemblyInfo.cs
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\obj\Release\net6.0\Presentation.csproj.CoreCompileInputs.cache
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\obj\Release\net6.0\Presentation.csproj.CopyComplete
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\obj\Release\net6.0\Presentation.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\obj\Release\net6.0\refint\Presentation.dll
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\obj\Release\net6.0\Presentation.pdb
+D:\11Lambton college\3rd Semester\.net\resources\mvc1_allfiles\aspnet_core_mvc\ex_starts\UFCFighter\Presentation\obj\Release\net6.0\ref\Presentation.dll
